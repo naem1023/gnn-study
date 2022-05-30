@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 pytorch-geometric-tutorial/data/*
 tutorial*/
+**/ngrok*
+**/*log
